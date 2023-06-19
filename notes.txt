@@ -1,0 +1,5 @@
+...Users ---> spread function -it is an iterator - to destructure
+
+Statless: 
+
+Vanilla: means simple
